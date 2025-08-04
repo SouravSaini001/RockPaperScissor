@@ -1,6 +1,7 @@
 # 🎮 Rock Paper Scissors Game
 
-### 🔗 [Live Demo](https://souravsaini001.github.io/RockPaperScissor/)  
+### 🔗 Live Demo 
+[Play the game](https://souravsaini001.github.io/RockPaperScissor/) 
 
 A fun and interactive **Rock Paper Scissors** game built using **HTML**, **CSS**, and **JavaScript**. Play against the computer and see who wins!
 
