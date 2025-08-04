@@ -22,7 +22,7 @@ A fun and interactive **Rock Paper Scissors** game built using **HTML**, **CSS**
 
 ## 📁 Project Structure
 
-```bash
+    ```bash
 RockPaperScissors/
 ├── index.html   # Main game layout
 ├── styles.css   # Styles and responsiveness
