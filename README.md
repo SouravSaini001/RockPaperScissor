@@ -22,19 +22,18 @@ A fun and interactive **Rock Paper Scissors** game built using **HTML**, **CSS**
 
 ## 📁 Project Structure
 
-PROJECT2/
-├── Images/                    # Folder containing all game assets
-│   ├── rock.png
-│   ├── paper.png
-│   ├── scissors.png
-│   └── screenshotGame.png    # Screenshot for README
-│
-├── index.html                # Main game layout
-├── style.css                 # Styles and responsiveness
-├── app.js                    # Game logic and functionality
-└── README.md                 # You're here!
-
-
+```bash
+RockPaperScissors/
+├── index.html   # Main game layout
+├── styles.css   # Styles and responsiveness
+├── script.js    # Game logic and functionality
+├── README.md    # You're here!
+└── Images/      # Folder containing all game assets
+├── rock.png
+├── paper.png
+├── scissors.png
+├── screenshotGame.png   # Screenshot for README
+    
 
 ---
 
